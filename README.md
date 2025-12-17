@@ -114,5 +114,3 @@ The code expects data files in `data/5db_3kiter/`:
 - The model automatically retrains with best hyperparameters for full epochs
 
 
-[Add your license here]
-
